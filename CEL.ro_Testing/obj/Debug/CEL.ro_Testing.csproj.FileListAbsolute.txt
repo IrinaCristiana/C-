@@ -1,0 +1,12 @@
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\obj\Debug\CEL.ro_Testing.csprojResolveAssemblyReference.cache
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\CEL.ro_Testing.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\CEL.ro_Testing.pdb
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\nunit.framework.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\WebDriver.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\WebDriver.Support.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\nunit.framework.xml
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\WebDriver.xml
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\bin\Debug\WebDriver.Support.xml
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\obj\Debug\CEL.ro_Testing.dll
+C:\Users\icristea\Documents\Visual Studio 2015\Projects\CEL.ro_Testing\CEL.ro_Testing\obj\Debug\CEL.ro_Testing.pdb
